@@ -51,6 +51,7 @@
 
 
 * (apresentar o vídeo à seguir, e pedir para eles anotarem pontos que acharam relevantes e pontos que não conheciam)
+
 ### Vídeo 1 - Como funciona a Internet? Parte 1: Protocolo IP
 https://www.youtube.com/watch?v=HNQD0qJ0TC4&list=PL4OojPHu710FqAnrMJumWhdlVnoaRpi-h
 Exibir e após apresentar slides com alguns pontos chaves, depois abrir para outros pontos que não foram apresentados
@@ -225,6 +226,32 @@ pelos Governos, pelo setor privado e pela sociedade civil, em seus respectivos p
 * Termos mais amplos para Internet: "Sociedade da Informação" e "Tecnologia da Informação"
 
 * Termo governança vem de governar sobre qualquer assunto (por exemplo assuntos de uma instituição privada) e não só sobre governos
+
+#### Algumas classificações de governança
+
+#####  Quatro áreas principais (relatório GMTI)
+
+* Infrestrutura e gestão de recursos críticos
+* Questões de uso da internet (inclusive spam, segurança e crime cibernético)
+* Questões relevantes à internet mas com impacto além (como propriedade intelectual, comércio internacional)
+* Questões de desenvolvimento da governança (mais especificamente ligado à criação de capacidades nos países em desenvolvimento)
+
+##### IGF Atenas2006 :
+* acesso
+* segurança
+* diversidade 
+* abertura
+(no IGF Rio entrou gestão de recursos críticos)
+
+Existe de 40 a 50 questões principais
+
+
+##### Diplô agrupa essas quetões em 5 cestas:
+* Infraestrutura e padronização
+* Jurídica
+* Econômica
+* Desenvolvimento
+* Sociocultural
 
 
 
