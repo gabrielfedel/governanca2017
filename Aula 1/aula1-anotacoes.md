@@ -257,6 +257,73 @@ Existe de 40 a 50 questões principais
 
 ### Lista de algumas das questões da Diplô
 
+#### Infraestrutura e padronização
+
+* Última milha
+* Estabelecimento de padrões técnicos de infraestrutura
+* Espectro eletromagnético
+* Transição IPv6
+* Mudanças no TCP/IP  -> QoS e Segurança
+* Domínios genéricos de primeiro nível 
+* * Caso Amazon
+* Administração de domínios de países
+* Internacionalização do controle dos servidores-raiz
+* Monopólios das telecomunicações e ISPs
+* Responsabilidades dos ISPs sobre diretos autorais
+* Infraestrutura da internet deveria ser considerado serviço público
+* Neutralidade da Rede
+* As implicações econômicas da convergência na Web
+* O risco da convergência: a fusão entre as operadoras de cabo e os ISPs
+
+* O futuro desenvolvimento do comércio eletrônico exige alto nível de cibersegurança
+* Vigilância e espionagem
+* Cibersegurança e direitos humanos
+* Regimes internacionais para ferramentas de criptografia
+* Spams
+
+#### Jurídica
+
+* Instrumentos Jurídicos
+* Jurisdição
+* Direitos da Propriedade Intelectual
+* Alterar mecanismos de direitos autorais existentes ou criar novos?
+* Proteção do interesse público – o “uso justo” dos materiais protegidos por direitos autorais
+* Direitos autorais e desenvolvimento
+* Definições de crime cibernético
+* Privacidade e Proteção de Dados
+
+
+#### Econômica
+
+* Proteção aos usuários e transparência
+* Risco de monopólios de mercado
+* Redistribuição de receitas entre empresas de telecomunicação e de Internet
+* Mudanças no sistema bancário mundial
+* Cibersegurança
+* Privacidade
+* Risco do uso de moedas virtuais
+* Tributação
+* Assinaturas Digitais
+
+#### Desenvolvimento
+
+* Exclusão Digital / Acesso Universal
+* Quem deveria cobrir o custo dos das conexões entre países em desenvolvimento e desenvolvidos?
+* Aspectos socioculturais de acesso à internet
+
+#### Sociocultural
+
+* Controle de conteúdo x liberdade de expressão
+* Ilegal offline – ilegal online
+* A efetividade do controle de conteúdo
+* Quem deve ser responsável pelas políticas de conteúdo?
+* Garantia de qualidade
+* O reconhecimento da formação acadêmica e a transferência de créditos
+* Ciberbullying
+* Abuso e exploração sexual
+* Alfabetos não romanos
+* Estruturas governamentais apropriadas (para diversidade multicultural)
+* O equilíbrio entre interesses privados e públicos
 
 
 ## Intervalo
