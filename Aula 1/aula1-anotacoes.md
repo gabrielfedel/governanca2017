@@ -341,7 +341,9 @@ Existe de 40 a 50 questões principais
 
 * TODO: escolher artigo
 
-## Avaliação da aula - 30 min
+## Apresentação e Desenvolvimento do Trabalho - 15 min
+
+## Avaliação da aula - 15 min
 
 * TODO: preparar formulário
 
