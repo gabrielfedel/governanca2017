@@ -4,50 +4,39 @@
 * 13:05 - 16:40
 
 ## Apresentação - 30 min
-* minha (falar sobre limitações e que eu não sei de tudo)
-* de cada um, por que está fazendo a pós e sobre o TCC
+* Todos se apresentam
 * entregar a 'plaquinha' de cada um
+
+## Apresentar Plano de Aulas e Combinados (15 min)
 
 ## Dinâmica post-it - 30 min
 * cada um escreve 3 assuntos que espera ver na disciplina
 * agrupar
 * debater, abrir para expressar expectativas
 
-## Apresentar Plano de Aulas - 30 min
+## Apresentar Plano de Aulas - 15 min
 * adaptar à dinâmica anterior
 
 ## Intervalo 15 min
 
 ## Internet e Governança da Internet - Construindo um conceito conjuntamente - 1 hora
 
-* cada um escreve em algumas palavras o quê entende por internet e governança da internet (15 min)
-
-* Perguntas para guiar:
-* * O quê é Internet?
-* * Como você classificaria a Internet? Meio de comunicação? ...
-* * A Internet é similar à outras coisas?
-* * O quê é Governança?
-* * Por quê uma matéria sobre isso?
-* * Por quê uma matéria sobre isso num curso de mídias digitais?
-* * De quem é a Internet?
-* * Existe um governo central da internet?
-* * Alguém pode "desligar" a internet?
-
+* Escreva em algumas palavras o que entende por internet e governança da internet (15 min)
 
 * Colocar conteúdos agrupados num pad (15 min)
 
-*  iniciar discussão e explicações à partir disso (30 min)
+
+* iniciar discussão e explicações à partir disso (30 min)
 
 
 ## Almoço
 
 ## Internet - História / Definições - 1 hora
 
-* TODO: preparar slides
 * TODO: extrair partes mais importantes do vídeo da história da internet
 
 * História da Internet: https://www.youtube.com/watch?v=0kL2zNNgqzk
-* * 
+*
 
 
 * (apresentar o vídeo à seguir, e pedir para eles anotarem pontos que acharam relevantes e pontos que não conheciam)
@@ -56,83 +45,14 @@
 https://www.youtube.com/watch?v=HNQD0qJ0TC4&list=PL4OojPHu710FqAnrMJumWhdlVnoaRpi-h
 Exibir e após apresentar slides com alguns pontos chaves, depois abrir para outros pontos que não foram apresentados
 
-* Web, Email , Jogos Onlines são aplicações da internet
-
-* Web != de Internet	
-
-* Importância de entender como a internet funciona
-
-* Internet usa infra estrutura de meios de comunicação (é um meio de comunicação?)
-
-* Protocolo IP (mostrar imagem 3:06)
-* * Endereço
-* * Divide informações em pacotes
-* * Sobre diversos meios físicos , e base para diversos protocolos
-
-* Comutação de pacotes x Comutação de circuitos
-* * traceroute
-
-* Endereço Único
 
 ### Vídeo 2
 https://www.youtube.com/watch?v=C5qNAT_j63M&index=2&list=PL4OojPHu710FqAnrMJumWhdlVnoaRpi-h
 
-* Internet = Rede de Redes
-Conceito fundamental que permite por exemplo você ter utilizaro mesmo tipo de infra-estrutura da internet na sua casa ou em uma empresa, independente da conexão com o resto da internet estar disponível
-
-Você pode subir uma série de serviços exclusivos para seu prédito por exemplo
-
-Que serviço/projeto você poderia criar nesse contexto? Que facilitaria sua vida ou das pessoas que vivem/trabalham próximo à você?
-
-Você pode subir na sua casa um serviço que pode ser visto à partir de qualquer lugar do mundo
-
-* ASs
-
-* * Independência técnica e administrativa
-
-* Provedores de Acesso , Provedores de conteúdo, Provedores de Trânsito
-* * Exemplos de cada um?
-* * Backbone da internet: provedores de provedores
-
-* Tanto os serviços que usamos, como os usuários estão nas extremidades da rede
-
-Google, facebook, ... não estão no núcleo "lógico e físico" da rede. 
-Na verdade o seu computador, logicamente falando, é igual ao do google dentro da internet
-
-* Núcleo simples e neutro
-
-* Aplicações e inteligência nas pontas
-
-* Protocolo comum entre ASs
-
-* Custo do Enlace físico
-
-* Tráfego de dados entre os ASs: Acordo comercial ou não
-* * Não existe autoridade central que diga como os ASs tem que se interligar
-
-* PTTs
-* mostrar site http://ix.br/
-
 ## Vídeo 3 - DNS
 https://www.youtube.com/watch?v=ACGuo26MswI&index=3&list=PL4OojPHu710FqAnrMJumWhdlVnoaRpi-h
 
-* Servidores ?
-
-* Sistema distribuído e Hierárquico
-* * Mostrar diferença entre redes centralizadas, decentralizadas e distribuídas
-
-* Diferença entre servidores web/email e DNS
-
-* Processo de consulta DNS
-(inserir figuras)
-* * fazer consulta com comandos
-
-* Endereços IPs (IPV6 e IPv4)
-
-* CGI.br e NIC.br 
-
-
-### Modelos Cliente/Servidor e P2P 
+### Modelos Cliente/Servidor e P2P
 
 
 * TODO: olhar material de redes de computadores
@@ -178,7 +98,7 @@ NIC.br
 * * Gestão de domínios
 ICANN -> Servidores raízes
 Regras dos gTLDs
-O ICANN mantém a função da IANA 
+O ICANN mantém a função da IANA
 
 * IGF
 Espaços para discussão / Sem tomada de decisões
@@ -239,7 +159,7 @@ pelos Governos, pelo setor privado e pela sociedade civil, em seus respectivos p
 ##### IGF Atenas2006 :
 * acesso
 * segurança
-* diversidade 
+* diversidade
 * abertura
 (no IGF Rio entrou gestão de recursos críticos)
 
@@ -264,7 +184,7 @@ Existe de 40 a 50 questões principais
 * Espectro eletromagnético
 * Transição IPv6
 * Mudanças no TCP/IP  -> QoS e Segurança
-* Domínios genéricos de primeiro nível 
+* Domínios genéricos de primeiro nível
 * * Caso Amazon
 * Administração de domínios de países
 * Internacionalização do controle dos servidores-raiz
@@ -333,9 +253,9 @@ Existe de 40 a 50 questões principais
 * Revista poliTICs 25 / Artigo: A Internet Morreu! / Viva a Internet !
 
 * Questões:
-* * Conceitos que não entenderam / não conhecem
-* * Existem tópicos que dialogam em algum nível com o TCC de vocês? como?
-* * 
+  * Conceitos que não entenderam / não conhecem
+  * Existem tópicos que dialogam em algum nível com o TCC de vocês? como?
+
 
 ( Artigo alternativo: A governança da Internet em 2017)
 
@@ -346,5 +266,3 @@ Existe de 40 a 50 questões principais
 ## Avaliação da aula - 15 min
 
 * TODO: preparar formulário
-
-
