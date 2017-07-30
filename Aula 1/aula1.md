@@ -249,3 +249,168 @@ https://www.youtube.com/watch?v=ACGuo26MswI&index=3&list=PL4OojPHu710FqAnrMJumWh
 ## DNS
 
 * CGI.br e NIC.br
+
+# Introdução à Governança da Internet
+
+## Vídeo
+https://www.youtube.com/watch?v=ZYsjMEISR6E&list=PL4OojPHu710FqAnrMJumWhdlVnoaRpi-h&index=4
+
+## Introdução à Governança da Internet
+
+* Internet é 'Inacabada '
+
+Quando a internet foi criada não existia torrent e bitcoin por exemplo
+
+## Introdução à Governança da Internet
+
+* Diferentes papéis/atores tem diferentes interesses
+
+* Divergências
+
+* Atores que tem mais poderes podem "destruir" a internet
+
+## Introdução à Governança da Internet
+
+* Não há autoridade central única
+
+## Introdução à Governança da Internet
+
+* Recursos técnicos
+
+## Introdução à Governança da Internet
+
+* Legislações diferentes
+
+## Introdução à Governança da Internet
+
+* Colaboração -> Multissetoriais ( Multistakeholders)
+
+## Áreas da Governança
+
+* Padrões Tecnológicos -> IETF, W3C
+
+Auxilia comunicação e funcionamento de diversos tipos de equipamentos diferentes
+Padrões abertos -> RFC
+Adotados voluntariamente
+
+## Áreas da Governança
+
+* Distribuição dos endereços (IPs, ASNs)
+
+Únicos globalmente
+IANA
+RIR -> LACNIC
+NIC.br
+
+## Áreas da Governança
+
+* Gestão de domínios
+
+ICANN -> Servidores raízes
+Regras dos gTLDs
+O ICANN mantém a função da IANA
+
+## Áreas da Governança
+
+* IGF
+Espaços para discussão / Sem tomada de decisões
+
+* CGI.br / NIC.br
+
+## Questões de Governança da Internet
+
+* Liberdade de expressão
+* Privacidade
+* Acessibilidade
+* Liberdade de informação
+* Inovação
+* Garantir que a internet seja única
+* Segurança e Estabilidade
+
+##Organizações ideais:
+
+* Multistakeholders
+* Abertas
+* Participativas
+* Decisões por consenso
+* Transparentes
+* Responsáveis
+* Inclusivas
+* Igualitárias
+* Distribuídas
+* Colaborativas
+* Acessíveis e Ágeis
+
+# Definindo Governança da Internet
+
+## Governança da Internet
+
+* Governança reflete diferentes perssepectivas abordagens e interesses de políticas
+
+## Interesses
+
+* Diferentes agentes tem interesses diferentes:
+  * profissionais  de computação
+  * profissionais e telecomunicação
+  * ativistas dos direitos humanos
+  * advogados
+  * políticos
+  * diplomatas
+
+## Definição
+
+* CMSI (Cúpula Mundial sobre a Sociedade da Informação) define:
+> " Governança da Internet é o desenvolvimento e a aplicação pelos Governos, pelo setor privado e pela sociedade civil, em seus respectivos papéis, de princípios, normas, regras, procedimentos de tomadas de decisão e programas em comum que definem a evolução e o uso da Internet"
+
+## Definição
+
+* Termos mais amplos para Internet: "Sociedade da Informação" e "Tecnologia da Informação"
+
+## Definição
+
+* Termo governança vem de governar sobre qualquer assunto (por exemplo assuntos de uma instituição privada) e não só sobre governos
+
+# Classificações
+
+## Quatro áreas principais (relatório GMTI)
+
+* Infrestrutura e gestão de recursos críticos
+* Questões de uso da internet (inclusive spam, segurança e crime cibernético)
+* Questões relevantes à internet mas com impacto além (como propriedade intelectual, comércio internacional)
+* Questões de desenvolvimento da governança (mais especificamente ligado à criação de capacidades nos países em desenvolvimento)
+
+## IGF Atenas2006
+* acesso
+* segurança
+* diversidade
+* abertura
+(no IGF Rio entrou gestão de recursos críticos)
+
+## DiploFoundation
+* Existe de 40 a 50 questões principais
+  * Infraestrutura e padronização
+  * Jurídica
+  * Econômica
+  * Desenvolvimento
+  * Sociocultural
+
+* Algumas questões:
+http://pad.w3c.br/p/questoesdiplo
+
+# Intervalo
+
+## Artigo para Análise
+
+* Revista poliTICs 25 / Artigo: A Internet Morreu! / Viva a Internet !
+
+* Questões:
+  * Conceitos que não entenderam / não conhecem
+  * Existem tópicos que dialogam em algum nível com o TCC de vocês? como?
+
+# Apresentação do Trabalho
+
+# Avaliação da aula
+
+## Avaliação da aula
+
+* Link
