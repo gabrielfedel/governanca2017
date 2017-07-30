@@ -13,7 +13,7 @@ Contextualiza o tema da Governança da Internet na relação entre empresas, ag�
 
 ## Dia 2
 * Direito Autoral e Propriedade Intelectual na Internet
-* Privacidade 
+* Privacidade
 * * Facebook , Jardins murados
 
 ## Dia 3
@@ -36,8 +36,8 @@ Contextualiza o tema da Governança da Internet na relação entre empresas, ag�
 
 -Introdução aos conceitos bases de Governança da Internet
 * Multistakeholder
-*Papéis e Responsabilidades
-* 
+* Papéis e Responsabilidades
+*
 
 -Como funciona a Internet
 
@@ -107,6 +107,10 @@ https://www.youtube.com/watch?v=flu6JPRHW04
 (série de vídeos)
 https://www.youtube.com/watch?v=HNQD0qJ0TC4&list=PL4OojPHu710FqAnrMJumWhdlVnoaRpi-h
 
+# Pontos ainda não utilizados
+
+* Software Livre e Cultura Hacker
+* Atores (material do Javan)
 
 
 # Referências
@@ -184,13 +188,66 @@ http://tfisher.org/
 http://www.em-rede.com/site/entrevista/fl%C3%A1via-lef%C3%A8vre-guimar%C3%A3es-o-cgibr-tem-grandes-contribui%C3%A7%C3%B5es-fazer-para-o-desenvolvimento#.WXObnzP2lgc.twitter
 
 
+
+
+https://www.cartacapital.com.br/blogs/intervozes/teles-avancam-na-verticalizacao-e-ameacam-provedores-de-conteudo-online
+
+## Privacidade
+
+https://www.thetimes.co.uk/article/facebook-wants-to-analyse-your-emotions-as-you-browse-8wrlb2hhb
+
+https://www.blakewatson.com/journal/why-i-left-facebook/
+
+## Economia
+
+http://corpnet.uva.nl/offshore-finance-network/
+
+## Neutralidade
+
+https://www.usatoday.com/story/tech/news/2017/07/19/record-9-million-comments-flood-fcc-net-neutrality/488042001/
+
+http://www.sul21.com.br/jornal/projetos-de-lei-usam-baleia-azul-para-mudar-o-acesso-internet-como-conhecemos/
+
+https://www.battleforthenet.com/
+
+## Jurisdição/Legislação ?
+
+https://www.internetjurisdiction.net/twitter/frances-highest-administrative-court-refers-google-right-to-be-de-indexed-case-to-cjeu
+
+https://freebogatov.org/en/
+
+## Propriedade Intelectual
+
+https://www.engadget.com/2017/07/12/microsoft-calibri-pakistan-fontgate/
+
+## Domínios
+
+https://porta23.blogosfera.uol.com.br/2017/07/19/amazon-recorre-e-disputa-pelo-dominio-com-brasil-e-peru-ganha-novos-capitulos/
+
+## No Brasil
+
+http://cgi.br/noticia/releases/cgi-br-abre-chamada-de-propostas-de-workshops-para-o-vii-forum-da-internet-no-brasil/
+
+## Marco Civil Brasileiro
+
+https://twitter.com/omcibr/status/883166503276883968
+
+## Criptografia e Whatsapp
+
+http://bloqueios.info/pt/audiencia-publica-sobre-criptografia-e-bloqueios-do-whatsapp-argumentos-diante-do-stf/
+
+
+
+
+
+
+
 ## Referências perdidas
 
 
 -Introdução aos conceitos bases de Governança da Internet
 * Multistakeholder
-*Papéis e Responsabilidades
-* 
+* Papéis e Responsabilidades
 
 -Fundamentos Técnicos
 
@@ -258,5 +315,3 @@ http://nic.br/media/docs/publicacoes/3/revista-br-ano-08-2017-edicao12.pdf#page=
 
 
 -----
-
-
