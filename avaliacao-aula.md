@@ -11,7 +11,7 @@
 * Sim
 * Não
 
-* Comentários: 
+* Comentários:
 
 # Qual tópico da aula mais se interessou?
 
@@ -27,4 +27,4 @@
 
 # Gostaria de sugerir algum tópico ou conteúdo para a próxima aula?
 
-# Gostaria de fazer outros comentários?
+# Outros comentários?
