@@ -1,3 +1,17 @@
+# Plano para o dia
+
+## Plano para a aula 2
+
+* Manhã
+  * Revisão e fechamento Aula 1
+  * Propriedade Intelectual e Direito Autoral
+  * Artigo + Discussão
+  * Vídeos - Everything is a Remix
+* Tarde
+  * Apresentação temática Debate
+  * Privacidade
+  * Tempo para desenvolvimento do Trabalho
+
 # Revisão Aula 1
 
 ## Revisão Aula 1
@@ -8,17 +22,25 @@
   * Email
   * Bittorrent
   * ...
+## Revisão Aula 1
+
 * Protocolo IP / Número IP
+
+## Revisão Aula 1
+
 * DNS
   * Responsável por converter nomes (www.sp.senac.br), em número ip
 * Domínios:
   * gTLDs : .com, .org, .amazon
   * cTLDs: .br, .pt, .ar (Responsabilidade dos países)
 
+## Revisão Aula 1
+
+
 * Diversos orgãos cuidam de recursos críticos da Internet
-  * IANA
-  * ICANN
-  * IETF
+  * IANA - Números
+  * ICANN - Nomes e Números
+  * IETF - Padrões Tecnológicos
 
 
 # Definindo Governança da Internet
@@ -30,8 +52,8 @@
 ## Interesses
 
 * Diferentes agentes tem interesses diferentes:
-  * profissionais  de computação
-  * profissionais e telecomunicação
+  * profissionais de computação
+  * profissionais de telecomunicação
   * ativistas dos direitos humanos
   * advogados
   * políticos
@@ -45,10 +67,6 @@
 ## Definição
 
 * Termos mais amplos para Internet: "Sociedade da Informação" e "Tecnologia da Informação"
-
-## Definição
-
-* Termo governança vem de governar sobre qualquer assunto (por exemplo assuntos de uma instituição privada) e não só sobre governos
 
 # Classificações
 
@@ -74,9 +92,10 @@
   * Desenvolvimento
   * Sociocultural
 
-# Inimputabilidade da rede
+## Inimputabilidade da rede
 
-* Responsabilização dos autores de ilícitos da rede (não responsabilizar provedor de conexão ou provedor de conteúdo)
+* Responsabilização dos autores de ilícitos da rede
+* Não responsabilizar provedor de conexão ou provedor de conteúdo)
 
 # Direito Autoral e Propriedade Intelectual
 
@@ -91,11 +110,17 @@
 
 * Proteger criadores de inovações e novidades
 * Ramo do direito que protege criações intelectuais
+
+## Propriedade Intelectual
+
 * Garante aos titulares direitos econômicos:
   * comercialização
   * circulação
   * utilização
   * produção
+
+## Propriedade Intelectual  
+
 * Garante propriedade ou exclusividade resultante da atividade intelectual nos campos
   * industrial
   * científico
@@ -107,7 +132,7 @@
 * Principais vertentes:
   * Direito Autoral
   * Propriedade industrial
-  * Sui Generis (não comentar)
+  * Sui Generis (topografica de CI, cultivar, conhecimento tradicional)
 
 ## Direito autoral
 
@@ -145,7 +170,7 @@ espírito,  expressas  por  quaisquer  meios  ou  fixadas  em  quaisquer  suport
 
 ## Propriedade Industrial
 * Validade de 20 anos após liberação
-* Busca evitar surgimento desleais
+* Busca evitar concorrências desleais
 * Voltado para questões técnicas e econômicas da sociedade
 
 
@@ -172,7 +197,7 @@ espírito,  expressas  por  quaisquer  meios  ou  fixadas  em  quaisquer  suport
 produtos resultantes da reprodução, da execução ou da representação de suas criações
 
   * Direitos conexos
-> interesses jurídicos de pessoas e organizações eu contribuem para tornar as obras acessíveis ao público ou acresentam à obra seu talento criativo, conhecimento técnico ou competência em organizaçao
+> interesses jurídicos de pessoas e organizações que contribuem para tornar as obras acessíveis ao público ou acresentam à obra seu talento criativo, conhecimento técnico ou competência em organizaçao
 
 
 ## Direito de Autor e Direitos Conexos
@@ -196,7 +221,7 @@ produtos resultantes da reprodução, da execução ou da representação de sua
   * Reprodução para utilização de portadores de necessidade
 
 ## Domínio Público
-  * No Brasil: até 70 anos após a morte do autor
+  * Signatários da Convenção de Berna: até 70 anos após a morte do autor
   * Audiovisual: 70 anos após a sua divulgação
   * Passado o prazo obra pode ser livremente divulgada e reproduzida (com ressalva aos direitos morais)
 
@@ -213,6 +238,8 @@ produtos resultantes da reprodução, da execução ou da representação de sua
     * autores e investidores (autores ficam refens de contratos 'leoninos')
     * titulares e membros da sociedade (limitações e exceções)
     * custo de implementação e benefícios por ela proporcionado
+
+## Problemas nas legislação brasileira
 
 * Ausência de supervisão, regulação e promoção coletiva de direitos
 * Carência de instância administrativa de mediação de conflitos e arbitragem na área autoral
@@ -232,15 +259,23 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 
 ## Algumas histórias
 
-* Caso Aviões
+* Caso Aviões nos EUA
 
-* Caso FM x RCA
+## Algumas histórias
+
+* Caso Edwin Armstrong(FM) x RCA
+
+## Algumas histórias
+
+* Dōjinshi ( ~ fanfic)
 
 ## Cultura Livre
 
 * Cultura comercial
 
 * Cultura não-comercial
+
+## Cultura Livre
 
 * Foco da lei estava na criatividade comercial
   * Lei dava incentivo para os criadores, dando-lhes direitos exclusivos sobre seu trabalho criativo: podendo vender
@@ -258,6 +293,10 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 ## Cultura Livre
 
 * Caso Disney
+
+## Caso Disney
+
+![Mickey](mickey.jpg)
 
 # Justificando a pirataria?
 
@@ -283,7 +322,7 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 
 * Comparando com pegar um livro sem pagar na livraria
 
-* Idiossicransia da pirataria intangível != Idiossicransia da pirataria tangível
+* pirataria intangível != pirataria tangível
 
 ## Pirataria
 
@@ -301,8 +340,9 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 
 * Justificativa para combater: privar o autor da sua renda
 
-* Caso Napster
-  * 80 milhões de usuários em 18 meses
+## Caso Napster
+
+* 80 milhões de usuários em 18 meses
 
 * Facilidade do download mudou a forma como as pessoas apreciavam músicas
 
@@ -350,6 +390,8 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 
 * Poderia a indústria estar perdendo com o caso A o equivalente ao que ganha com o caso B?
 
+## Pirataria
+
 * Queda de 8,2% de venda de CD em 2002 (de 882 milhões para 803 milhões)
 
 * Queda de lançamento de CD de 20% de 1999 à 2002
@@ -363,6 +405,8 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 * Situação difícil de analisar
 
 * Questão da indústria "Qual a diferença entre copiar uma música da Internet e roubar um CD"?
+
+## Pirataria
 
 * Se não houvesse diferença queda seria de mais de 100%
 
@@ -380,7 +424,9 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 
 * Sem infrigimento de copyright
 * Obras em domínio público
-* Se para resolver o problema do tipo, precisamos eliminar o tipo D, perdemos algo muito importante para a sociedade
+* Se para resolver o problema do tipo A, precisamos eliminar o tipo D, perdemos algo muito importante para a sociedade
+
+## Cultura Livre
 
 * Enquanto a industria fonográfica diz "perdemos esse valor", temos que nos questionar "quanto ganhamos com as redes P2P"
   * Que tipo de conteúdo é esse que de outra forma não estaria disponível?
@@ -394,14 +440,25 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
 
 * A luta judicial deveria ser somente contra o tipo A
 * Caso Napster: chegou a oferecer uma solução que eliminava 99,4% dos compartilhamento ilegal, mas não foi aceito
-* Napster deveria elimitar completamente a quebra de copyright
+* Napster deveria eliminar completamente a quebra de copyright
 * Se 99,4% não é suficiente, então o que temos é uma guerra contra as tecnologias de compartilhamento
-* Assim como não é possivel que uma máquina XEROX, gravadores de CD e armas serão usados 100% do tempo dentro da lei
+* Assim como não é possivel que uma máquina XEROX, gravadores de CD e armas sejam usados 100% do tempo dentro da lei
 * Significa perder os benefícios do compartilhamento
 
 ## Pirataria
 
 * Essa situação não busca equilíbrio (diferente da história das inovações)
+
+## Pirataria
+
+* Desbalanço nas "punições"
+
+* Lei Three Strikes
+
+* Prisão fundadores do Pirate Bay
+
+# Direito de Imagem
+
 
 ## Direito de Imagem
 
@@ -413,14 +470,53 @@ http://200.201.88.180/nit/index.php/propriedade-intelectual/o-que-e-propriedade-
   * Importante provar o dano
   * Caso seja para uso comercial não é necessário provar dano
 
+# Algumas situações reais
+
+## Stupid Patent of the month
+
+* https://www.eff.org/issues/stupid-patent-month
+
+## Stupid Patent of the month
+
+* https://www.eff.org/deeplinks/2013/01/scanning-documents-patent-trolls-want-you-pay
 
 ## Quebra de Patentes
 
 * Caso patentes medicamento para tratamento HIV
 
+
+
 ## Caso Aaron Swartz
 
 ## Caso SciHub
+
+# Alternativas?
+
+## Creative Commons
+
+* Vídeo
+* Flickr, Jamendo, ...
+
+## Referência
+
+> São Paulo: Editora 34, 1999. LESSIG, Lawrence. Cultura Livre: como a grande mídia usa a tecnologia e a lei para bloquear a cultura e controlar a criatividade.
+
+# Análise e Discussão de Texto
+
+## Zero Rating
+
+* Zero Rating
+
+https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate
+
+## Formato da discussão
+
+* Duplas
+* 5 minutos para fala inicial (preferencialmente se posicionando) - obrigatório
+* 3 minutos para fala de réplica
+* 2 minutos para fala de tréplica
+
+
 
 # Privacidade
 
@@ -523,9 +619,17 @@ dos EUA e outras legislações ampliaram a autoridade dos governos para coletar 
 * Cookies
 * Pixel Tracking
 
-## Regras para proteção de dados pessoais armazenados
+## Coleta de Dados Pessoais
 
 http://www.staffs.ac.uk/legal/privacy/10_rules/
+
+## Coleta de Dados Pessoais
+
+* Não colete nenhum dado
+* Se coletar, não armazene
+* Se armazenar, armazene o mínimo,
+* Se armazenar, armazene por menos tempo possível
+* Se armazenar, armazene da forma mais segura possível (criptografado, com o mínimo de acesso, ...)
 
 ## Pwned
 
@@ -553,7 +657,7 @@ http://www.staffs.ac.uk/legal/privacy/10_rules/
 
 ## Legislações
 
-* Convenção do Conselho da Europa para a proteção de Indivíduoas com respeito ao Processamento Autmático de Dados Pessoais - 1981
+* Convenção do Conselho da Europa para a proteção de Indivíduoas com respeito ao Processamento Automático de Dados Pessoais - 1981
   * Resistiu ao tempo por ser neutra em termos tecnológicos
   * Pode ser aderida por países não europeus
 
@@ -568,11 +672,11 @@ http://www.staffs.ac.uk/legal/privacy/10_rules/
 * Europa: Legislação Abrangente para proteção de dados
   * Executadas por autoridade públicas
 
-* EUA: regulaçõa é elaborada por cada setor da economia (finanças, crianças, serviços médicos, cada um com uma legislação específica)
+* EUA: regulação é elaborada por cada setor da economia (finanças, crianças, serviços médicos, cada um com uma legislação específica)
   * Realizada principalmente pelo setor privado e pela autorregulação
   * Empresas estabelecem políticas e cabe a elas e aos indivíduos decidir sobre as políticas
 
-* No modelo dos EUA as pessoas ficam em posiçõa vulnerável
+* No modelo dos EUA as pessoas ficam em posição vulnerável
 
 
 ## Marco Civil Brasileiro
@@ -604,10 +708,65 @@ padrões que utiliza para proteger esses dados.
 
 ## Caso Snowden
 
-
-file:///home/kropotkin/ownCloudFedel/palestras/SemTecIFSP2014/apresentacao.svg#frame7071
+* SVG
 
 ## Deep Web?
 
 * Deep Web, Dark Web
 * Tor
+
+# Como se proteger?
+
+## Como se proteger
+
+* https://temboinalinha.org/
+
+* https://emailselfdefense.fsf.org/pt-br/
+
+
+# Debate - Privacidade
+
+# Situação 1
+
+## Situação 1
+
+> Justiça quer que provedores de acesso armazene todos os dados trafegados por 5 anos, e desenvolva algoritmos para busca de palavras chaves (ligadas à atividades criminosas)
+
+
+# Situação 2
+
+## Situação 2
+
+> Uma imagem íntima de uma garota de 18 anos é publicada sem sua autorização, causando grandes complicações para sua vida e de sua família. A publicação foi feita utilizando Tor, por isso não é possível identificar o autor. Some o nó de saída, fora do Brasil.
+
+## Questões
+
+* Se o nó de saída fosse no Brasil, o responsável poderia ser penalizado?
+
+## Alternativas
+
+* Bloquear uso do Tor no Brasil
+* Ação para desabilitar uso do Tor em toda internet
+* Processar o dono do nó de saída
+* Não fazer nada com relação ao Tor
+* Outra?
+
+## Situação 3
+
+> "Justiça" quer que criptografia tenha um "backdoor" que permita grampo (com ordem judicial), e com isso acesso à mensagens de possíveis criminosos
+
+## Alternativas
+
+* Proibir criptografia
+* Instalar backdoors
+* Não interferir em como a criptografia funciona
+* Outra ?
+
+## Situação 4
+
+> "Justiça" quer que fabricante de telefones instale "backdoor" que permita acessar todos os dados de um celular
+
+## Alternativas
+
+* Avançar na proposta
+* Não avançar na proposta
